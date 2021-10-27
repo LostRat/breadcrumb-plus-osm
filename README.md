@@ -8,7 +8,7 @@ Download and install the free GPXSee app. Drap the gpx file over the GPXSee app 
 
 This is not what happens, for example, when loading the same as a path in the COROS app for use with their APEX watch. Discontiguous tracks get connected as if they were one, and falsely show line connecting them. I hope that this can change in the future. That is the point of this repo.
 
-The example gpx file is an output from my offline hiking app PDXWalk (from emulator). It is a track, then a set of nearby OSM lines. Below is an outline of what a gpx file might contain in the future. You see my first test of screen recording from my app (<https://twitter.com/LostRat/status/1440886097400061953?s=20>).  If I output just some close OSM paths there will most likely be discontiguous path segments, and others that intersect. I want to show them all and accurately note discontiguous parts.
+The example gpx file is an output from my offline hiking app PDXWalk (from emulator). It is a track, then a set of nearby OSM lines. Below is an outline of what a gpx file might contain in the future. You can watch my first test of screen recording from my app (<https://twitter.com/LostRat/status/1440886097400061953?s=20>).  If I output just some close OSM paths there will most likely be discontiguous path segments, and others that intersect. I want to show them all and accurately note discontiguous parts.
 
 event tracks
 
