@@ -1,2 +1,2 @@
 # breadcrumb-plus-osm
-multiple tracks (&lt;trk> s) in GPS track file example  
+multiple tracks (&lt;trk> s) in GPX track file example  
