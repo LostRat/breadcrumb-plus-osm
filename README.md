@@ -4,7 +4,7 @@ multiple tracks (&lt;trk> s) in GPX track file example
 
 You can download the powell_butte.gpx file containing several tracks.
 
-Download and install the free GPXSee app. Drap the gpx file over the GPXSee app window and you will see that it correctly displays distinct tracks. <https://github.com/tumic0/GPXSee>
+Download and install the free GPXSee app. Drag the gpx file over the GPXSee app window and you will see that it correctly displays distinct tracks. <https://github.com/tumic0/GPXSee>
 
 This is not what happens, for example, when loading the same as a path in the COROS app for use with their APEX watch. Discontiguous tracks get connected as if they were one, and falsely show line connecting them. I hope that this can change in the future. That is the point of this repo.
 
