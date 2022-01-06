@@ -38,3 +38,7 @@ array of OSM snappables
 array of OSM nearby
 
 - OSM Whole
+
+This repository can read a GPX file in the current format.:
+
+- https://github.com/ticofab/android-gpx-parser
